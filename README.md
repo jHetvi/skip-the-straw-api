@@ -276,7 +276,7 @@ node src/server.js # Direct server start
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the HT License.
 
 ---
 
