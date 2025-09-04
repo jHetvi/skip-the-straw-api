@@ -23,7 +23,7 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jHetvi/skip-the-straw-api
    cd lemonade-stand-api
    ```
 
